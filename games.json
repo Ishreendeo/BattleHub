@@ -1,0 +1,7 @@
+[
+  { "id": "valorant", "name": "Valorant", "icon": "🎯", "maps": ["Ascent", "Bind", "Haven", "Icebox", "Split", "Lotus"] },
+  { "id": "cs2", "name": "CS2", "icon": "🔫", "maps": ["Mirage", "Inferno", "Dust II", "Nuke", "Overpass", "Ancient"] },
+  { "id": "bgmi", "name": "BGMI", "icon": "🪖", "maps": ["Erangel", "Miramar", "Sanhok", "Vikendi"] },
+  { "id": "dota2", "name": "Dota 2", "icon": "🛡️", "maps": ["Radiant Side", "Dire Side"] },
+  { "id": "lol", "name": "League of Legends", "icon": "⚔️", "maps": ["Summoner's Rift"] }
+]

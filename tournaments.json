@@ -1,0 +1,32 @@
+[
+  {
+    "id": "trn1", "name": "Battle Hub Winter Clash", "game": "valorant",
+    "status": "upcoming", "prizePool": 50000, "date": "2026-08-15",
+    "maxTeams": 8, "registeredTeamIds": ["t1", "t2", "t3"],
+    "description": "An 8-team single elimination Valorant showdown kicking off the winter season."
+  },
+  {
+    "id": "trn2", "name": "CS2 Nexus Championship", "game": "cs2",
+    "status": "live", "prizePool": 75000, "date": "2026-07-10",
+    "maxTeams": 8, "registeredTeamIds": ["t1", "t2", "t4", "t6"],
+    "description": "The region's top CS2 rosters battle for a share of the Nexus prize pool."
+  },
+  {
+    "id": "trn3", "name": "BGMI Skyfall Series", "game": "bgmi",
+    "status": "upcoming", "prizePool": 30000, "date": "2026-09-02",
+    "maxTeams": 8, "registeredTeamIds": ["t3", "t5"],
+    "description": "Battle royale intensity across four iconic maps."
+  },
+  {
+    "id": "trn4", "name": "Dota 2 Ember Cup", "game": "dota2",
+    "status": "completed", "prizePool": 100000, "date": "2026-05-20",
+    "maxTeams": 4, "registeredTeamIds": ["t2", "t4", "t6"],
+    "description": "A completed invitational among the region's strongest Dota 2 lineups."
+  },
+  {
+    "id": "trn5", "name": "Rift Rivals: LoL Open", "game": "lol",
+    "status": "upcoming", "prizePool": 40000, "date": "2026-08-28",
+    "maxTeams": 4, "registeredTeamIds": ["t4", "t6"],
+    "description": "Summoner's Rift hosts the season's first open qualifier."
+  }
+]
