@@ -1,0 +1,104 @@
+[
+  {
+    "id": "t1", "name": "Phantom Wolves", "tag": "PHW", "logo": "🐺", "region": "APAC",
+    "games": ["valorant", "cs2"],
+    "players": [
+      { "name": "Kaidoh", "role": "Duelist", "kd": 1.42 },
+      { "name": "Reyven", "role": "Controller", "kd": 1.18 },
+      { "name": "Nyxa", "role": "Sentinel", "kd": 1.05 },
+      { "name": "Bloxx", "role": "Initiator", "kd": 1.31 },
+      { "name": "Skarr", "role": "IGL", "kd": 0.98 }
+    ],
+    "stats": {
+      "winRate": 74, "avgKD": 1.19, "tournamentsPlayed": 23,
+      "recentForm": ["W", "W", "L", "W", "W"],
+      "mapWinRates": { "Ascent": 82, "Bind": 65, "Haven": 71, "Icebox": 58, "Split": 77, "Lotus": 69,
+                        "Mirage": 70, "Inferno": 60, "Dust II": 74, "Nuke": 55, "Overpass": 63, "Ancient": 68 }
+    }
+  },
+  {
+    "id": "t2", "name": "Crimson Vipers", "tag": "CRV", "logo": "🐍", "region": "EU",
+    "games": ["valorant", "cs2", "dota2"],
+    "players": [
+      { "name": "Vexil", "role": "Duelist", "kd": 1.51 },
+      { "name": "Thorne", "role": "Controller", "kd": 1.02 },
+      { "name": "Miko", "role": "Sentinel", "kd": 0.95 },
+      { "name": "Ashvale", "role": "Initiator", "kd": 1.22 },
+      { "name": "Draymon", "role": "IGL", "kd": 1.08 }
+    ],
+    "stats": {
+      "winRate": 68, "avgKD": 1.16, "tournamentsPlayed": 19,
+      "recentForm": ["L", "W", "W", "W", "L"],
+      "mapWinRates": { "Ascent": 60, "Bind": 73, "Haven": 66, "Icebox": 70, "Split": 58, "Lotus": 75,
+                        "Mirage": 66, "Inferno": 72, "Dust II": 61, "Nuke": 69, "Overpass": 58, "Ancient": 64 }
+    }
+  },
+  {
+    "id": "t3", "name": "Nova Reapers", "tag": "NVR", "logo": "☄️", "region": "NA",
+    "games": ["valorant", "bgmi"],
+    "players": [
+      { "name": "Frostbyte", "role": "Duelist", "kd": 1.35 },
+      { "name": "Lumen", "role": "Controller", "kd": 1.11 },
+      { "name": "Grix", "role": "Sentinel", "kd": 1.0 },
+      { "name": "Onyxa", "role": "Initiator", "kd": 1.27 },
+      { "name": "Calder", "role": "IGL", "kd": 0.92 }
+    ],
+    "stats": {
+      "winRate": 71, "avgKD": 1.13, "tournamentsPlayed": 21,
+      "recentForm": ["W", "L", "W", "W", "W"],
+      "mapWinRates": { "Ascent": 68, "Bind": 62, "Haven": 74, "Icebox": 66, "Split": 70, "Lotus": 63,
+                        "Mirage": 59, "Inferno": 65, "Dust II": 70, "Nuke": 61, "Overpass": 67, "Ancient": 60 }
+    }
+  },
+  {
+    "id": "t4", "name": "Iron Sentinels", "tag": "IRS", "logo": "🛡️", "region": "APAC",
+    "games": ["cs2", "dota2", "lol"],
+    "players": [
+      { "name": "Warde", "role": "Rifler", "kd": 1.29 },
+      { "name": "Halcy", "role": "AWPer", "kd": 1.45 },
+      { "name": "Notch", "role": "Support", "kd": 0.9 },
+      { "name": "Bramble", "role": "Entry", "kd": 1.15 },
+      { "name": "Sythe", "role": "IGL", "kd": 1.01 }
+    ],
+    "stats": {
+      "winRate": 65, "avgKD": 1.16, "tournamentsPlayed": 27,
+      "recentForm": ["W", "W", "W", "L", "L"],
+      "mapWinRates": { "Ascent": 55, "Bind": 60, "Haven": 58, "Icebox": 64, "Split": 57, "Lotus": 61,
+                        "Mirage": 78, "Inferno": 69, "Dust II": 72, "Nuke": 74, "Overpass": 65, "Ancient": 70 }
+    }
+  },
+  {
+    "id": "t5", "name": "Solar Knights", "tag": "SLK", "logo": "☀️", "region": "SEA",
+    "games": ["bgmi", "valorant"],
+    "players": [
+      { "name": "Ryzen", "role": "Fragger", "kd": 1.6 },
+      { "name": "Vantage", "role": "Support", "kd": 0.99 },
+      { "name": "Ecliptic", "role": "Sniper", "kd": 1.4 },
+      { "name": "Duskra", "role": "IGL", "kd": 1.05 },
+      { "name": "Nimbus", "role": "Flex", "kd": 1.2 }
+    ],
+    "stats": {
+      "winRate": 77, "avgKD": 1.25, "tournamentsPlayed": 17,
+      "recentForm": ["W", "W", "W", "W", "L"],
+      "mapWinRates": { "Erangel": 80, "Miramar": 66, "Sanhok": 74, "Vikendi": 62,
+                        "Ascent": 64, "Bind": 59, "Haven": 61, "Icebox": 55, "Split": 60, "Lotus": 58 }
+    }
+  },
+  {
+    "id": "t6", "name": "Obsidian Order", "tag": "OBS", "logo": "🗡️", "region": "EU",
+    "games": ["dota2", "lol", "cs2"],
+    "players": [
+      { "name": "Malrik", "role": "Carry", "kd": 1.33 },
+      { "name": "Veska", "role": "Mid", "kd": 1.4 },
+      { "name": "Corvin", "role": "Offlane", "kd": 0.95 },
+      { "name": "Ilyra", "role": "Support", "kd": 0.8 },
+      { "name": "Draug", "role": "Hard Support", "kd": 0.77 }
+    ],
+    "stats": {
+      "winRate": 62, "avgKD": 1.05, "tournamentsPlayed": 25,
+      "recentForm": ["L", "L", "W", "W", "W"],
+      "mapWinRates": { "Radiant Side": 63, "Dire Side": 60, "Summoner's Rift": 58,
+                        "Mirage": 61, "Inferno": 57, "Dust II": 64, "Nuke": 59, "Overpass": 62, "Ancient": 60 }
+    }
+  }
+]
